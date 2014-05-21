@@ -1,0 +1,48 @@
+Pour l'installation vous faite d'abord :
+cd redis-2.8.9
+make
+cd src
+./redis-server et le laisser tourner
+
+Apres ouvrez un autre terminal retourner dans Intrahmed et vous faites ca :
+
+./nodebb setup
+
+URL used to access this NodeBB (http://localhost:4567) : enter
+Port number of your NodeBB (4567) : enter
+Please enter a NodeBB secret (e90399be-43a2-4450-ada8-68ad35b58f0e) : enter
+IP or Hostname to bind to (127.0.0.1)
+Which database to use (redis) : enter
+info: Now configuring redis database:
+Host IP or address of your Redis instance (127.0.0.1)
+Host port of your Redis instance (6379)
+Password of your Redis database : enter
+Which database to use (0..n) : enter
+warn: No administrators have been detected, running initial user setup
+Administrator username dav
+Administrator email address dav@gmail.com
+Password : password
+Confirm Password : password
+warn: No categories found, populating instance with default categories
+info: Enabling default plugins
+warn: You have no redis password setup!
+info: Beginning database schema update
+info: [2014/2/19] Updating MOTD to use the HTML widget - skipped
+info: [2014/2/20] Adding Recent Replies, Active Users, and Moderator widgets to category sidebar - skipped
+info: [2014/2/20] Adding Forum Stats Widget to the Homepage Footer - skipped
+info: [2014/2/20] Updating Lavender MOTD - skipped
+info: [2014/2/20] Activating NodeBB Essential Widgets - skipped
+info: [2014/2/22] Added categories to sorted set - skipped
+info: [2014/3/18] Migrating Markdown settings to new configuration - skipped
+info: [2014/3/21] Removing gids and pruning groups - skipped
+info: [2014/3/31] Re-adding copyright message into global footer widget - skipped
+info: [2014/4/1] Moved home sidebar widgets into draft zone - skipped
+info: [2014/4/2] Moved deprecated vanilla footer widgets into draft zone - skipped
+info: [2014/4/1] Updating privilege settings
+info: [2014/5/16] Removing allowGuestPosting option - skipped
+info: [upgrade] Schema already up to date!
+
+Quand vous voyez ca c'est bon
+
+
+go to localhost4567
