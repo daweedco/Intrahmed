@@ -1,0 +1,68 @@
+[32minfo[39m: NodeBB v0.4.3 Copyright (C) 2013-2014 DesignCreatePlay Inc.
+[32minfo[39m: This program comes with ABSOLUTELY NO WARRANTY.
+[32minfo[39m: This is free software, and you are welcome to redistribute it under certain conditions.
+[32minfo[39m: 
+[32minfo[39m: Time: Wed May 21 2014 16:52:13 GMT+0200 (CEST)
+[32minfo[39m: Initializing NodeBB v0.4.3
+[32minfo[39m: * using configuration stored in: /Users/david/Intrahmed/config.json
+[32minfo[39m: * using redis store at 127.0.0.1:6379
+[32minfo[39m: * using themes stored in: /Users/david/Intrahmed/node_modules
+[33mwarn[39m: You have no redis password setup!
+[32minfo[39m: [user.startJobs] Registering User Jobs
+[32minfo[39m: [meta/css] Minifying LESS/CSS
+[32minfo[39m: [sounds] Sounds OK
+[32minfo[39m: [themes] Compiling templates
+[32minfo[39m: [themes] Successfully compiled templates.
+[32minfo[39m: NodeBB attempting to listen on: 127.0.0.1:4567
+[32minfo[39m: NodeBB v0.4.3 Copyright (C) 2013-2014 DesignCreatePlay Inc.
+[32minfo[39m: This program comes with ABSOLUTELY NO WARRANTY.
+[32minfo[39m: This is free software, and you are welcome to redistribute it under certain conditions.
+[32minfo[39m: 
+[32minfo[39m: Time: Wed May 21 2014 16:52:14 GMT+0200 (CEST)
+[32minfo[39m: Initializing NodeBB v0.4.3
+[32minfo[39m: * using configuration stored in: /Users/david/Intrahmed/config.json
+[32minfo[39m: * using redis store at 127.0.0.1:6379
+[32minfo[39m: * using themes stored in: /Users/david/Intrahmed/node_modules
+[33mwarn[39m: You have no redis password setup!
+[32minfo[39m: [user.startJobs] Registering User Jobs
+[32minfo[39m: [meta/css] Minifying LESS/CSS
+[32minfo[39m: [sounds] Sounds OK
+[32minfo[39m: [themes] Compiling templates
+[32minfo[39m: [meta/css] Done.
+[32minfo[39m: [themes] Successfully compiled templates.
+[32minfo[39m: NodeBB attempting to listen on: 127.0.0.1:4567
+[32minfo[39m: NodeBB v0.4.3 Copyright (C) 2013-2014 DesignCreatePlay Inc.
+[32minfo[39m: This program comes with ABSOLUTELY NO WARRANTY.
+[32minfo[39m: This is free software, and you are welcome to redistribute it under certain conditions.
+[32minfo[39m: 
+[32minfo[39m: Time: Wed May 21 2014 16:52:16 GMT+0200 (CEST)
+[32minfo[39m: Initializing NodeBB v0.4.3
+[32minfo[39m: * using configuration stored in: /Users/david/Intrahmed/config.json
+[32minfo[39m: * using redis store at 127.0.0.1:6379
+[32minfo[39m: * using themes stored in: /Users/david/Intrahmed/node_modules
+[33mwarn[39m: You have no redis password setup!
+[32minfo[39m: [user.startJobs] Registering User Jobs
+[32minfo[39m: [meta/css] Minifying LESS/CSS
+[32minfo[39m: [sounds] Sounds OK
+[32minfo[39m: [themes] Compiling templates
+[32minfo[39m: [themes] Successfully compiled templates.
+[32minfo[39m: NodeBB attempting to listen on: 127.0.0.1:4567
+[32minfo[39m: NodeBB v0.4.3 Copyright (C) 2013-2014 DesignCreatePlay Inc.
+[32minfo[39m: This program comes with ABSOLUTELY NO WARRANTY.
+[32minfo[39m: This is free software, and you are welcome to redistribute it under certain conditions.
+[32minfo[39m: 
+[32minfo[39m: Time: Wed May 21 2014 16:52:16 GMT+0200 (CEST)
+[32minfo[39m: Initializing NodeBB v0.4.3
+[32minfo[39m: * using configuration stored in: /Users/david/Intrahmed/config.json
+[32minfo[39m: * using redis store at 127.0.0.1:6379
+[32minfo[39m: * using themes stored in: /Users/david/Intrahmed/node_modules
+[33mwarn[39m: You have no redis password setup!
+[32minfo[39m: [user.startJobs] Registering User Jobs
+[32minfo[39m: [meta/css] Minifying LESS/CSS
+[32minfo[39m: [sounds] Sounds OK
+[32minfo[39m: [themes] Compiling templates
+[32minfo[39m: [meta/css] Done.
+[32minfo[39m: [themes] Successfully compiled templates.
+[32minfo[39m: NodeBB attempting to listen on: 127.0.0.1:4567
+
+[loader] Experienced three start attempts in 10 seconds, most likely an error on startup. Halting.
